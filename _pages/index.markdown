@@ -8,6 +8,8 @@ permalink: /
 
 # Hello, Connor!
 
+This is Connor's blog where he is going to demonstate his prowness in website design and publishing.
+
 Check out these other pages:
 
 - [About]({{site.baseurl}}/about/)

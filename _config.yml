@@ -23,7 +23,7 @@ email: connorsmirl@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is Connor's blog where is is going to demonstate his prowness
   in website design and publishing.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/connor" # the subpath of your site, e.g. /blog
 url: "http://connor.digispeaker.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll

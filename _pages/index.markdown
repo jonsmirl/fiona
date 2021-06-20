@@ -10,4 +10,4 @@ permalink: /
 
 Check out these other pages:
 
-- [About](/about/)
+- [About]({{site.baseurl}}/about/)

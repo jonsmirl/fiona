@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome Connor!"
+title:  "Welcome Fiona!"
 categories: jekyll update
 ---
 

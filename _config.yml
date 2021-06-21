@@ -21,7 +21,7 @@
 title: Fiona's Blog
 email: fionasmirl@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is Fiona's blog where he is going to demonstate his prowness
+  This is Fiona's blog where she is going to demonstate his prowness
   in website design and publishing.
 baseurl: "/fiona" # the subpath of your site, e.g. /blog
 url: "http://fiona.digispeaker.com" # the base hostname & protocol for your site, e.g. http://example.com
